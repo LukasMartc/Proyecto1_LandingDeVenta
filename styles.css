@@ -21,7 +21,7 @@ main {
 }
 
 .main-component {
-    width: 744px;
+    max-width: 744px;
     height: 372px;
     display: flex;
     justify-content: center;
@@ -56,8 +56,19 @@ background-color: #132651;
 transition: 00.35s ease-in-out all;
 }
 
+.me-4 {
+    text-decoration: none;
+}
 
 
+.links-footer {
+    text-decoration: none;
+    color: #adadad;
+}
+
+.links-footer:hover {
+    color: #0d6efd;
+}
 
 
 
