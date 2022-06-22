@@ -36,6 +36,10 @@ main {
     margin-bottom: 12px;
 }
 
+.btn-custom {
+    border: none;
+}
+
 .form-btn-explore-trip {
     margin-top: 12px;
     display: inline-block;
