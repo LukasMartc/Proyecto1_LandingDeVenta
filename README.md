@@ -8,7 +8,7 @@ Viajes Itour is a web page inspired by a travel agency built with HTML, CSS and 
 
 ### Demo
 
-You can see the demo of this project on the following link: [TGIF](https://astounding-souffle-3d70f4.netlify.app/)
+You can see the demo of this project on the following link: [Viajes Itour](https://astounding-souffle-3d70f4.netlify.app/)
 
 ### Installation 🔧
 
